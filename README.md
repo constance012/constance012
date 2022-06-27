@@ -1,4 +1,4 @@
-19+ | currently university | self-taught game dev.
+20+ | currently university | self-taught game dev, virtual photographer.
 
 <!---
 constance012/constance012 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
