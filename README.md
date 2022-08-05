@@ -1,4 +1,4 @@
-20+ | currently university | self-taught game dev, virtual photographer.
+lvq | 20+ | currently university | self-taught game dev (CST Games), virtual photographer.
 
 <!---
 constance012/constance012 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
