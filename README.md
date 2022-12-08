@@ -1,4 +1,4 @@
-I'm Constance, a.k.a CST Games, a self-taught developer.
+I'm Constance, a.k.a CST Games, a self-taught game developer.
 
 You can found the source files of my potato projects here, along with other stuff I made while learning at university, you can mess around with them if you like, I'll be glad to hear your feedback about them for improving my games in the future.
 
