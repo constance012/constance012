@@ -2,7 +2,7 @@
 
 I'm a 22-ish Game Developer with Unity Engine from a small country in South-east Asia, Vietnam 🇻🇳
 
-I have been studying __Unity Engine__ for almost 2 years now, and have developed various of games for PC and Mobile, although most of them have not really been finished yet because I'm currently a last year student at my university, so a significant percentage of my time must be spent on university/graduation works.
+I have been studying __Unity Engine__ for almost 2 years now, and have developed various of games for PC and Mobile under my own studio - CST Games, although most of them have not really been finished yet because I'm currently a last year student at my university, so a significant percentage of my time must be spent on university/graduation works.
 
 But beside all that, I really like participating in Game Jams, because it's a good place to show off what I've learnt over the years, and also to learn more from other developers as well. Most recently, I have participated in __Ludum Dare 54__ with my entry [__Laboratory Of Doom__](https://ldjam.com/events/ludum-dare/54/laboratory-of-doom) and got pretty good scores overall.
 
