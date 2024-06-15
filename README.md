@@ -19,12 +19,13 @@ As of now, I'm seeking a suitable ___internship___ or ___entry-level___ position
 
 _TLDR_, this is a brief description of me:
 - 💻  I'm a last year university student, with nearly _2 years_ of self-taught experience in game development with __Unity Engine__.
+- 🎮  I really like participate in Game Jams, because I can put my game-making skill to its limit!
 - 🌍  I hail from __Vietnam__, Earth, Milky Way Galaxy.
 - 📫  Contact me at ___lvq13302@gmail.com___
 - 🚀  I'm currently working on [__our Ludum Dare 55 entry - Necrogirl.__](http://github.com/constance012/Necrogirl)
 - 🏢  I'm seeking an ___internship___ or ___entry-level___ position as a Unity/Game Developer.
 - 🧠  In the meantime, I'm also learning __Pixel Art__, more __advanced stuff__ in Unity.
-- 🚗  Also, I'm a sucker for cars and aviation and an appreciator of US-UK music.
+- 🚗  Lastly, I'm a sucker for cars and aviation and an appreciator of US-UK music.
 
 ### My skills:
 
