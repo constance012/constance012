@@ -5,7 +5,7 @@ My name is Lam Van Quoc (Constance Anderson)
 
 > Game Developer | Pixel Art Hobbyist
 
-<img align="right" src="./images/Laura/Laura_128_L.gif" alt="image" />
+<img align="right" src="./images/Laura/Laura_128_L.gif" alt="image" width="140" height="140"/>
 
 I am a 22-ish __Game Developer__ with _Unity Engine_ who comes from a small but beautiful country in South-east Asia, __Vietnam__ 🇻🇳. I am also a __Pixel Art Hobbyist__, which allows me to create graphic assets for games I develop.
 
@@ -15,7 +15,7 @@ But beside all that, I really like participating in Game Jams, because it's a go
 
 As of now, I'm seeking a suitable ___internship___ or ___entry-level___ position as a __Unity/Game Developer__ to further enhance my knowledge and accumulate more experience. So if you have an offer for me at you company, team or organization, feel free to contact me at ___lvq13302@gmail.com___
 
-<img align="left" src="./images/Detective/Detective_New_256_R.png" alt="image" />
+<img align="left" src="./images/Detective/Detective_New_256_R.png" alt="image" width="135" height="270"/>
 
 _TLDR_, this is a brief description of me:
 - 💻  I'm a last year university student, with nearly _2 years_ of self-taught experience in game development with __Unity Engine__.
