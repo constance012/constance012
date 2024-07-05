@@ -24,7 +24,7 @@ _TLDR_, this is a brief description of me:
 - 📫  Contact me at ___lvq13302@gmail.com___
 - 🚀  I'm currently working on [__our Ludum Dare 55 entry - Necrogirl.__](http://github.com/constance012/Necrogirl)
 - 🏢  I'm seeking an ___internship___ or ___entry-level___ position as a Unity/Game Developer.
-- 🧠  In the meantime, I'm also learning __Pixel Art__, more __advanced stuff__ in Unity.
+- 🧠  In the meantime, I'm also learning more about __Pixel Art__, and __advanced stuff__ in Unity such as Probuilder, Cinemachine, Tweening, Networking,...
 - 🚗  Lastly, I'm a sucker for cars and aviation and an appreciator of US-UK music.
 
 ### My skills:
