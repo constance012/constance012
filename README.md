@@ -54,10 +54,12 @@ _TLDR_, this is a brief description of me:
 
 <p align="left">
 <a href="https://www.linkedin.com/in/constance012/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="40" height="40" alt="LinkedIn" /></a>
+<a href="https://www.glassdoor.com/member/profile" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/glassdoor/glassdoor-icon.svg" width="40" height="40" alt="Leetcode" /></a>
 <a href="https://github.com/constance012/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="40" height="40" alt="Github" /></a>
 <a href="https://constance012.itch.io/" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/I/itch-io-logo-43B308E6B7-seeklogo.com.png" width="40" height="40" alt="Itch.io" /></a>
 <a href="https://www.codingame.com/profile/4305dd8636b8d3e1b2def69281a960d45936085/" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/C/codingame-logo-B8D3B11924-seeklogo.com.png" width="40" height="40" alt="CodinGame" /></a>
 <a href="https://leetcode.com/u/constance012/" target="_blank" rel="noreferrer"><img src="https://cdn.iconscout.com/icon/free/png-512/free-leetcode-3521542-2944960.png?f=webp&w=256" width="40" height="40" alt="Leetcode" /></a>
+<a href="https://www.hackerrank.com/profile/lvq13302" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/H/hackerrank-logo-179D7D2812-seeklogo.com.png" width="40" height="40" alt="Leetcode" /></a>
 <a href="https://facebook.com/lvq.002/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" width="40" height="40" alt="Facebook" /></a>
 <a href="https://www.instagram.com/_constance_02_/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" width="40" height="40" alt="Instagram" /></a>
 <a href="https://twitter.com/_constance_012/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" width="40" height="40" alt="Twitter (X)" /></a>
