@@ -9,7 +9,7 @@ My name is Lam Van Quoc (Constance Anderson)
 
 I am a 22-ish __Game Developer__ with _Unity Engine_ who comes from a small but beautiful country in South-east Asia, __Vietnam__ 🇻🇳. I am also a __Pixel Art Hobbyist__, which allows me to create graphic assets for games I develop.
 
-I have been studying __Unity Engine__ for nearly _2 years_ now, and have developed various of games for _PC_ and _Mobile_ under my own studio - __CST Games__ or collaborated with other friends of mine, although most of them have not really been finished yet because I'm currently a last year student at my university, so a significant percentage of my time must be spent on university/graduation works.
+I have been studying __Unity Engine__ for over _2 years_ now, and have developed various of games for _PC_ and _Mobile_ under my own studio - __CST Games__ or collaborated with other friends of mine, although most of them have not really been finished yet because I'm currently a last year student at my university, so a significant percentage of my time must be spent on university/graduation works.
 
 But beside all that, I really like participating in Game Jams, because it's a good place to show off what I've learnt over the years, and also to learn more from other developers as well. Most recently, I have participated in __Ludum Dare 55__ along with my 2 other friends with our entry [__Necrogirl__]( https://ldjam.com/events/ludum-dare/55/necrogirl), we got pretty good scores overall after the jam concluded.
 
