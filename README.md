@@ -1,8 +1,11 @@
 Hi there!
 ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 My name is Lam Van Quoc (Constance Anderson)
-==================================================
-<img align="center" src="./images/Banners/Main_Bedroom.gif" alt="banner" width="800" height="320"/>
+=
+
+<p align="center">
+  <img src="./images/Banners/Main_Bedroom.gif" alt="banner" width="800" height="320"/>
+</p>
 
 > Game Developer | Pixel Art Hobbyist
 
@@ -31,39 +34,39 @@ _TLDR_, this is a brief description of me:
 ### My skills:
 
 <p align="left">
-<a href="https://unity.com/" target="_blank" rel="noreferrer"><img src="https://upload.vectorlogo.zone/logos/unity3d/images/562cc0fa-a6c4-45a3-8412-ef8bce616751.svg" width="40" height="40" alt="Unity" /></a>
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="40" height="40" alt="C#" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="40" height="40" alt="Python" /></a>
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="40" height="40" alt="Java" /></a>
-<a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="40" height="40" alt=".NET" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="40" height="40" alt="MySQL" /></a>
+  <a href="https://unity.com/" target="_blank" rel="noreferrer"><img src="https://upload.vectorlogo.zone/logos/unity3d/images/562cc0fa-a6c4-45a3-8412-ef8bce616751.svg" width="40" height="40" alt="Unity" /></a>
+  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="40" height="40" alt="C#" /></a>
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="40" height="40" alt="Python" /></a>
+  <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="40" height="40" alt="Java" /></a>
+  <a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="40" height="40" alt=".NET" /></a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="40" height="40" alt="MySQL" /></a>
 </p>
 
-### My IDE, software:
+### IDE, software I used:
 
 <p align="left">
-<a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/M/microsoft-visual-studio-logo-9E65CA55F8-seeklogo.com.png" width="40" height="40" alt="Visual Studio" /></a>
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/V/visual-studio-code-logo-449D71944F-seeklogo.com.png" width="40" height="40" alt="VS Code" /></a>
-<a href="https://www.sublimetext.com/" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/S/sublime-text-logo-C2736A0B50-seeklogo.com.png" width="40" height="40" alt="Sublime Text" /></a>
-<a href="https://www.eclipse.org/topics/ide/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/eclipse/eclipse-icon.svg" width="40" height="40" alt="Eclipse" /></a>
-<a href="https://aseprite.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Logo_Aseprite.svg/448px-Logo_Aseprite.svg.png" width="40" height="40" alt="Aseprite" /></a>
-<a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/A/adobe-photoshop-cc-logo-CBD0AAA3A7-seeklogo.com.png" width="40" height="40" alt="Photoshop" /></a>
-<a href="https://www.adobe.com/products/photoshop-lightroom-classic.html" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/A/adobe-lightroom-classic-cc-logo-22F6A5BC15-seeklogo.com.png" width="40" height="40" alt="Lightroom Classic" /></a>
+  <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/M/microsoft-visual-studio-logo-9E65CA55F8-seeklogo.com.png" width="40" height="40" alt="Visual Studio" /></a>
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/V/visual-studio-code-logo-449D71944F-seeklogo.com.png" width="40" height="40" alt="VS Code" /></a>
+  <a href="https://www.sublimetext.com/" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/S/sublime-text-logo-C2736A0B50-seeklogo.com.png" width="40" height="40" alt="Sublime Text" /></a>
+  <a href="https://www.eclipse.org/topics/ide/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/eclipse/eclipse-icon.svg" width="40" height="40" alt="Eclipse" /></a>
+  <a href="https://aseprite.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Logo_Aseprite.svg/448px-Logo_Aseprite.svg.png" width="40" height="40" alt="Aseprite" /></a>
+  <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/A/adobe-photoshop-cc-logo-CBD0AAA3A7-seeklogo.com.png" width="40" height="40" alt="Photoshop" /></a>
+  <a href="https://www.adobe.com/products/photoshop-lightroom-classic.html" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/A/adobe-lightroom-classic-cc-logo-22F6A5BC15-seeklogo.com.png" width="40" height="40" alt="Lightroom Classic" /></a>
 </p>
 
 ### You can find me on:
 
 <p align="left">
-<a href="https://www.linkedin.com/in/constance012/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="40" height="40" alt="LinkedIn" /></a>
-<a href="https://www.glassdoor.com/member/profile" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/glassdoor/glassdoor-icon.svg" width="40" height="40" alt="Leetcode" /></a>
-<a href="https://github.com/constance012/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="40" height="40" alt="Github" /></a>
-<a href="https://constance012.itch.io/" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/I/itch-io-logo-43B308E6B7-seeklogo.com.png" width="40" height="40" alt="Itch.io" /></a>
-<a href="https://www.codingame.com/profile/4305dd8636b8d3e1b2def69281a960d45936085/" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/C/codingame-logo-B8D3B11924-seeklogo.com.png" width="40" height="40" alt="CodinGame" /></a>
-<a href="https://leetcode.com/u/constance012/" target="_blank" rel="noreferrer"><img src="https://cdn.iconscout.com/icon/free/png-512/free-leetcode-3521542-2944960.png?f=webp&w=256" width="40" height="40" alt="Leetcode" /></a>
-<a href="https://www.hackerrank.com/profile/lvq13302" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/H/hackerrank-logo-179D7D2812-seeklogo.com.png" width="40" height="40" alt="Leetcode" /></a>
-<a href="https://facebook.com/lvq.002/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" width="40" height="40" alt="Facebook" /></a>
-<a href="https://www.instagram.com/_constance_02_/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" width="40" height="40" alt="Instagram" /></a>
-<a href="https://twitter.com/_constance_012/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" width="40" height="40" alt="Twitter (X)" /></a>
+  <a href="https://www.linkedin.com/in/constance012/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="40" height="40" alt="LinkedIn" /></a>
+  <a href="https://www.glassdoor.com/member/profile" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/glassdoor/glassdoor-icon.svg" width="40" height="40" alt="Leetcode" /></a>
+  <a href="https://github.com/constance012/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="40" height="40" alt="Github" /></a>
+  <a href="https://constance012.itch.io/" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/I/itch-io-logo-43B308E6B7-seeklogo.com.png" width="40" height="40" alt="Itch.io" /></a>
+  <a href="https://www.codingame.com/profile/4305dd8636b8d3e1b2def69281a960d45936085/" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/C/codingame-logo-B8D3B11924-seeklogo.com.png" width="40" height="40" alt="CodinGame" /></a>
+  <a href="https://leetcode.com/u/constance012/" target="_blank" rel="noreferrer"><img src="https://cdn.iconscout.com/icon/free/png-512/free-leetcode-3521542-2944960.png?f=webp&w=256" width="40" height="40" alt="Leetcode" /></a>
+  <a href="https://www.hackerrank.com/profile/lvq13302" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/H/hackerrank-logo-179D7D2812-seeklogo.com.png" width="40" height="40" alt="Leetcode" /></a>
+  <a href="https://facebook.com/lvq.002/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" width="40" height="40" alt="Facebook" /></a>
+  <a href="https://www.instagram.com/_constance_02_/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" width="40" height="40" alt="Instagram" /></a>
+  <a href="https://twitter.com/_constance_012/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" width="40" height="40" alt="Twitter (X)" /></a>
 </p>
 
 ### My stats
