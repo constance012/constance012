@@ -22,13 +22,13 @@ As of now, I'm seeking a suitable ___internship___ or ___entry-level___ position
 <img align="left" src="./images/Detective/Detective_New_256_R.png" alt="image" width="135" height="270"/>
 
 _TLDR_, this is a brief description of me:
-- 💻  I'm a last year university student, with nearly _2 years_ of self-taught experience in game development with __Unity Engine__.
+- 💻  I'm a last year university student, with over _2 years_ of self-taught experience in game development with __Unity Engine__.
 - 🎮  I really like participate in Game Jams, because I can put my game-making skill to its limit!
 - 🌍  I hail from __Vietnam__, Earth, Milky Way Galaxy.
 - 📫  Contact me at ___lvq13302@gmail.com___
-- 🚀  I'm currently working on [__our Ludum Dare 55 entry - Necrogirl.__](http://github.com/constance012/Necrogirl)
+- 🚀  I'm currently working on the localization of [__my LOWREZJAM entry - Motion Paradox.__](http://github.com/constance012/Motion_Paradox)
 - 🏢  I'm seeking an ___internship___ or ___entry-level___ position as a Unity/Game Developer.
-- 🧠  In the meantime, I'm also learning more about __Pixel Art__, and __advanced stuff__ in Unity such as Multiplayer, Networking, Procedural Generation, Probuilder,...
+- 🧠  In the meantime, I'm also learning more about __Pixel Art__, __Cocos Creator__, and __advanced stuff__ in Unity such as Multiplayer, Networking, Procedural Generation, Probuilder,...
 - 🚗  Lastly, I'm a sucker for cars and aviation and an appreciator of US-UK music.
 
 ### My skills:
@@ -38,6 +38,7 @@ _TLDR_, this is a brief description of me:
   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="40" height="40" alt="C#" /></a>
   <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="40" height="40" alt="Python" /></a>
   <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="40" height="40" alt="Java" /></a>
+  <a href="https://www.cocos.com/en/creator" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/cocos-creator-3.svg" width="40" height="40" alt="Cocos Creator" /></a>
   <a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="40" height="40" alt=".NET" /></a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="40" height="40" alt="MySQL" /></a>
 </p>
