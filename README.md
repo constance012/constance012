@@ -11,13 +11,13 @@ My name is Lam Van Quoc (Constance Anderson)
 
 <img align="right" src="./images/Laura/Laura_128_L.gif" alt="image" width="140" height="140"/>
 
-I am a 22-ish __Game Developer__ with _Unity Engine_ who hails from a small but beautiful country in South-east Asia, __Vietnam__ 🇻🇳. I am also a __Pixel Art Hobbyist__, which allows me to create graphic assets for games I develop.
+I am a 23-ish __Game Developer__ with _Unity Engine_ who hails from a small but beautiful country in South-east Asia, __Vietnam__ 🇻🇳. I am also a __Pixel Art Hobbyist__, which allows me to create graphic assets for games I develop.
 
 I have been studying __Unity Engine__ for ___over 2 years___ now, and have developed various of games for _PC_ and _Mobile_ under my own studio - __CST Games__ or collaborated with other friends of mine, although most of them have not really been finished yet because I'm currently a last year student at my university, so a significant percentage of my time must be spent on university/graduation works.
 
 But beside all that, I really like participating in Game Jams, because it's a good place to show off what I've learnt over the years, and also to learn more from other developers as well. Most recently, I have participated in __Ludum Dare 55__ along with my 2 other friends with our entry [__Necrogirl__]( https://ldjam.com/events/ludum-dare/55/necrogirl), we got pretty good scores overall after the jam concluded.
 
-As of now, I'm seeking a suitable ___internship___ or ___entry-level___ position as a __Unity/Game Developer__ to further enhance my knowledge and accumulate more experience. So if you have an offer for me at you company, team or organization, feel free to contact me at ___lvq13302@gmail.com___
+As of now, I'm working as a full-time ___Unity Developer___ at [__Amanotes__](https://www.amanotes.com/). I'm grateful for being able to find my dream job, and now I'm eager to further enhance my knowledge and accumulate more experience. Finally, if you want to reach out to me any reasons, feel free to contact me at ___lvq13302@gmail.com___
 
 <img align="left" src="./images/Detective/Detective_New_256_R.png" alt="image" width="135" height="270"/>
 
@@ -27,8 +27,8 @@ _TLDR_, this is a brief description of me:
 - 🌍  I hail from __Vietnam__, Earth, Milky Way Galaxy.
 - 📫  Contact me at ___lvq13302@gmail.com___
 - 🚀  I'm currently working on the localization of [__my LOWREZJAM entry - Motion Paradox.__](http://github.com/constance012/Motion_Paradox)
-- 🏢  I'm seeking an ___internship___ or ___entry-level___ position as a Unity/Game Developer.
-- 🧠  In the meantime, I'm also learning more about __Pixel Art__, __Cocos Creator__, and __advanced stuff__ in Unity such as Multiplayer, Networking, Procedural Generation, Probuilder,...
+- 🏢  I'm working as a ___full-time___ Unity/Game Developer.
+- 🧠  In the meantime, I'm also learning more about __Pixel Art__, __Unity 6__, and __advanced stuff__ in Unity such as Multiplayer, Networking, Procedural Generation,...
 - 🚗  Lastly, I'm a sucker for cars and aviation and an appreciator of US-UK music.
 
 ### My skills:
@@ -46,13 +46,12 @@ _TLDR_, this is a brief description of me:
 ### IDE, software I used:
 
 <p align="left">
-  <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/M/microsoft-visual-studio-logo-9E65CA55F8-seeklogo.com.png" width="40" height="40" alt="Visual Studio" /></a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/V/visual-studio-code-logo-449D71944F-seeklogo.com.png" width="40" height="40" alt="VS Code" /></a>
-  <a href="https://www.sublimetext.com/" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/S/sublime-text-logo-C2736A0B50-seeklogo.com.png" width="40" height="40" alt="Sublime Text" /></a>
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://upload.vectorlogo.zone/logos/visualstudio_code/images/0aea25bb-27bb-427f-8d65-f999bf0cba67.svg" width="40" height="40" alt="VS Code" /></a>
+  <a href="https://www.sublimetext.com/" target="_blank" rel="noreferrer"><img src="images/Reference_Logos/sublime_text.png" width="40" height="40" alt="Sublime Text" /></a>
   <a href="https://www.eclipse.org/topics/ide/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/eclipse/eclipse-icon.svg" width="40" height="40" alt="Eclipse" /></a>
   <a href="https://aseprite.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Logo_Aseprite.svg/448px-Logo_Aseprite.svg.png" width="40" height="40" alt="Aseprite" /></a>
-  <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/A/adobe-photoshop-cc-logo-CBD0AAA3A7-seeklogo.com.png" width="40" height="40" alt="Photoshop" /></a>
-  <a href="https://www.adobe.com/products/photoshop-lightroom-classic.html" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/A/adobe-lightroom-classic-cc-logo-22F6A5BC15-seeklogo.com.png" width="40" height="40" alt="Lightroom Classic" /></a>
+  <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer"><img src="images/Reference_Logos/photoshop.png" width="40" height="40" alt="Photoshop" /></a>
+  <a href="https://www.adobe.com/products/photoshop-lightroom-classic.html" target="_blank" rel="noreferrer"><img src="images/Reference_Logos/lightroom_classic.png" width="40" height="40" alt="Lightroom Classic" /></a>
 </p>
 
 ### You can find me on:
@@ -61,10 +60,10 @@ _TLDR_, this is a brief description of me:
   <a href="https://www.linkedin.com/in/constance012/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="40" height="40" alt="LinkedIn" /></a>
   <a href="https://www.glassdoor.com/member/profile" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/glassdoor/glassdoor-icon.svg" width="40" height="40" alt="Leetcode" /></a>
   <a href="https://github.com/constance012/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="40" height="40" alt="Github" /></a>
-  <a href="https://constance012.itch.io/" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/I/itch-io-logo-43B308E6B7-seeklogo.com.png" width="40" height="40" alt="Itch.io" /></a>
-  <a href="https://www.codingame.com/profile/4305dd8636b8d3e1b2def69281a960d45936085/" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/C/codingame-logo-B8D3B11924-seeklogo.com.png" width="40" height="40" alt="CodinGame" /></a>
+  <a href="https://constance012.itch.io/" target="_blank" rel="noreferrer"><img src="images/Reference_Logos/itch_io.png" width="40" height="40" alt="Itch.io" /></a>
+  <a href="https://www.codingame.com/profile/4305dd8636b8d3e1b2def69281a960d45936085/" target="_blank" rel="noreferrer"><img src="images/Reference_Logos/codingame.png" width="40" height="40" alt="CodinGame" /></a>
   <a href="https://leetcode.com/u/constance012/" target="_blank" rel="noreferrer"><img src="https://cdn.iconscout.com/icon/free/png-512/free-leetcode-3521542-2944960.png?f=webp&w=256" width="40" height="40" alt="Leetcode" /></a>
-  <a href="https://www.hackerrank.com/profile/lvq13302" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/H/hackerrank-logo-179D7D2812-seeklogo.com.png" width="40" height="40" alt="Leetcode" /></a>
+  <a href="https://www.hackerrank.com/profile/lvq13302" target="_blank" rel="noreferrer"><img src="images/Reference_Logos/hackerrank.png" width="40" height="40" alt="HackerRank" /></a>
   <a href="https://facebook.com/lvq.002/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" width="40" height="40" alt="Facebook" /></a>
   <a href="https://www.instagram.com/_constance_02_/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" width="40" height="40" alt="Instagram" /></a>
   <a href="https://twitter.com/_constance_012/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" width="40" height="40" alt="Twitter (X)" /></a>
