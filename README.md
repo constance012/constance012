@@ -11,7 +11,7 @@ My name is Lam Van Quoc (Constance Anderson)
 
 <img align="right" src="./images/Laura/Laura_128_L.gif" alt="image" width="140" height="140"/>
 
-I am a 22-ish __Game Developer__ with _Unity Engine_ who hails from a small but beautiful country in South-east Asia, __Vietnam__ 🇻🇳. I am also a __Pixel Art Hobbyist__, which allows me to create graphic assets for games I develop.
+I am a 23-ish __Game Developer__ with _Unity Engine_ who hails from a small but beautiful country in South-east Asia, __Vietnam__ 🇻🇳. I am also a __Pixel Art Hobbyist__, which allows me to create graphic assets for games I develop.
 
 I have been studying __Unity Engine__ for ___over 2 years___ now, and have developed various of games for _PC_ and _Mobile_ under my own studio - __CST Games__ or collaborated with other friends of mine, although most of them have not really been finished yet because I'm currently a last year student at my university, so a significant percentage of my time must be spent on university/graduation works.
 
