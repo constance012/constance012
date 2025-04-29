@@ -13,22 +13,22 @@ My name is Lam Van Quoc (Constance Anderson)
 
 I am a 23-ish __Game Developer__ with _Unity Engine_ who hails from a small but beautiful country in South-east Asia, __Vietnam__ 🇻🇳. I am also a __Pixel Art Hobbyist__, which allows me to create graphic assets for games I develop.
 
-I have been studying __Unity Engine__ for ___over 2 years___ now, and have developed various of games for _PC_ and _Mobile_ under my own studio - __CST Games__ or collaborated with other friends of mine, although most of them have not really been finished yet because I'm currently a last year student at my university, so a significant percentage of my time must be spent on university/graduation works.
+I have been studying __Unity Engine__ for ___over 2 years___ now, and have developed various of games for _PC_ and _Mobile_ under my own studio - [__CST Games__](https://constance012.itch.io/) or collaborated with other friends of mine, although most of them have not really been finished yet because I'm currently a last year student at my university, so a significant percentage of my time must be spent on university/graduation works.
 
-But beside all that, I really like participating in Game Jams, because it's a good place to show off what I've learnt over the years, and also to learn more from other developers as well. Most recently, I have participated in __Ludum Dare 55__ along with my 2 other friends with our entry [__Necrogirl__]( https://ldjam.com/events/ludum-dare/55/necrogirl), we got pretty good scores overall after the jam concluded.
+But beside all that, I really like participating in Game Jams, because it's a good place to show off what I've learnt over the years, and also to learn more from other developers as well. Most recently, I have participated in __Ludum Dare 57__ along with my 2 other friends with our entry [__Into The Abyss__]( https://ldjam.com/events/ludum-dare/57/into-the-abyss-2), we got pretty good scores overall after the jam concluded.
 
-As of now, I'm working as a full-time ___Unity Developer___ at [__Amanotes__](https://www.amanotes.com/). I'm grateful for being able to find my dream job, and now I'm eager to further enhance my knowledge and accumulate more experience. Finally, if you want to reach out to me any reasons, feel free to contact me at ___lvq13302@gmail.com___
+As of now, I'm working as a full-time ___Unity Developer___ at [__Amanotes (MEP)__](https://www.amanotes.com/). I'm grateful for being able to find my dream job, and now I'm eager to further enhance my knowledge and accumulate more experience. Finally, if you want to reach out to me for anything, feel free to contact me at ___lvq13302@gmail.com___
 
 <img align="left" src="./images/Detective/Detective_New_256_R.png" alt="image" width="135" height="270"/>
 
 _TLDR_, this is a brief description of me:
 - 💻  I'm a last year university student, with over _2 years_ of self-taught experience in game development with __Unity Engine__.
-- 🎮  I really like participate in Game Jams, because I can put my game-making skill to its limit!
+- 🎮  I really like participate in Game Jams, because I can push my game-making skill to its limit!
 - 🌍  I hail from __Vietnam__, Earth, Milky Way Galaxy.
 - 📫  Contact me at ___lvq13302@gmail.com___
-- 🚀  I'm currently working on the localization of [__my LOWREZJAM entry - Motion Paradox.__](http://github.com/constance012/Motion_Paradox)
+- 🚀  I'm currently working on the procedural generation of [__our recent Ludum Dare entry - Into The Abyss.__](http://github.com/constance012/Into_The_Abyss)
 - 🏢  I'm working as a ___full-time___ Unity/Game Developer.
-- 🧠  In the meantime, I'm also learning more about __Pixel Art__, __Unity 6__, and __advanced stuff__ in Unity such as Multiplayer, Networking, Procedural Generation,...
+- 🧠  In the meantime, I'm also learning more about __Pixel Art__, __Unity 6__, and __advanced stuff__ in Unity such as _Multiplayer_, _Addressables_, _Procedural Generation_,...
 - 🚗  Lastly, I'm a sucker for cars and aviation and an appreciator of US-UK music.
 
 ### My skills:
