@@ -11,13 +11,13 @@ My name is Lam Van Quoc (Constance Anderson)
 
 <img align="right" src="./images/Laura/Laura_128_L.gif" alt="image" width="140" height="140"/>
 
-I am a 23-ish __Game Developer__ with _Unity Engine_ who hails from a small but beautiful country in South-east Asia, __Vietnam__ 🇻🇳. I am also a __Pixel Art Hobbyist__, which allows me to create graphic assets for games I develop.
+I am a 24-ish __Game Developer__ with _Unity Engine_ who hails from a small but beautiful country in South-east Asia, __Vietnam__ 🇻🇳. I am also a __Pixel Art Hobbyist__, which allows me to create graphic assets for games I develop.
 
 I have been studying __Unity Engine__ for ___over 3 years___ now, and have developed various of games for _WebGL_, _PC_, and _Mobile_ platforms under my own studio - [__CST Games__](https://constance012.itch.io/). Although some of them have not really been finished yet or have been postponed from development because of my lack of free time on weekdays, but I'm still developing them little by little at the evening or weekend.
 
 But beside all that, I really like participating in Game Jams, because it's a good place to show off what I've learnt over the years, and also to learn more from other developers as well. Most recently, I have participated in __Ludum Dare 57__ along with my 2 other friends with our entry [__Into The Abyss__]( https://ldjam.com/events/ludum-dare/57/into-the-abyss-2), we got pretty good scores overall after the jam concluded.
 
-As of now, I'm working as a full-time ___Unity Developer___ at [__MEP__](https://mepplatform.com/#company). And I'm grateful for being able to find my dream job, and now I'm eager to further enhance my knowledge and accumulate more experience. Finally, if you want to reach out to me for anything, feel free to contact me at ___lvq13302@gmail.com___
+As of now, I'm working as a full-time ___Unity Developer___ at [__Uplive__](https://uplive.zone/). And I'm grateful for being able to find my dream job, and now I'm eager to further enhance my knowledge and accumulate more experience. Finally, if you want to reach out to me for anything, feel free to contact me at ___lvq13302@gmail.com___
 
 <img align="left" src="./images/Detective/Detective_New_256_R.png" alt="image" width="135" height="270"/>
 
@@ -27,7 +27,7 @@ _TLDR_, this is a brief description of me:
 - 🌍  I hail from __Vietnam__, Earth, Milky Way Galaxy.
 - 📫  Contact me at ___lvq13302@gmail.com___
 - 🚀  I'm currently developing my new space-themed project [__Astral Urgency__](https://github.com/constance012/Astral_Urgency).
-- 🏢  I'm working as a ___full-time___ Unity/Game Developer at MEP.
+- 🏢  I'm working as a ___full-time___ Unity/Game Developer at Uplive.
 - 🧠  In the meantime, I'm also learning more about __Pixel Art__, __Unity 6.2's AI features__, and __advanced stuff__ in Unity such as _Multiplayer_, _Addressables_, _Procedural Generation_,...
 - 🚗  Lastly, I'm a sucker for cars and aviation and an appreciator of US-UK music.
 
